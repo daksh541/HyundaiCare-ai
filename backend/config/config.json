@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "25052006",
+    "database": "hyundaicare_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "25052006",
+    "database": "hyundaicare_db_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "25052006",
+    "database": "hyundaicare_db_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
